@@ -1,47 +1,100 @@
-<!-- <h1 align="center">Hi 👋, I'm Van<h1/> -->
-# Hi 👋, I'm Van
- 
-<img 
-  src="IceBear.jpg" 
-  alt="functional programming is the right way"
-  style="margin-right : 10px "
-  align="left" 
-  height="290px"
-/>
+# Hey ![Wave](https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505) What's up?
+
+### `$ whoAmI`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```javascript
-const aboutMe = {
-  name: "van",
-  username: "devanify",
-  workplace: "location unknown",
-  organization: [],
-  city: "Bali, 🇮🇩",
-  lang: ["bahasa", "eng"],
-  interests: [
-    "static web",
-    "web development",
-    "self development"
-  ]
+const AboutMe = {
+  name: "Evan",
+  pronouns: "He" | "Him",
+  code: ["Javascript", "PHP", "Go"],
+  askMeAbout: ["web dev", "cloud computing", "tech trends"],
+  technologies: {
+    frontEnd: {
+      js: ["Soon ..."],
+      css: ["Tailwind", "Bootstrap"],
+      uiLibraries: ["Preline UI", "Flowbite"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      php: ["Laravel"],
+    },
+    devOps: ["Nginx"],
+    cloudServices: {
+      aws: ["Amazon EC2 (Elastic Compute Cloud)"],
+      gcp: ["Google Cloud Compute Engine (VM)", "Google Cloud SQL"],
+    },
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    misc: ["REST APIs"],
+  },
+  currentFocus: "Currently learning Go for REST API development",
+  funFact: "I can solve any problem, but I might need to Google it first 🧐💻",
+  description: "A passionate web developer from Indonesia 🇮🇩",
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔗 Social Media 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EBWbHCJqtV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yanevannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yanevannn) 
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22048699) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devanify) -->
+### `$ activityStats`
 
-## 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- 
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
--->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=yanevannn&color=6&icon=0&pretty=true" alt="View Count" />
+  </a>
+</p>
 
-<!-- 
- Disable for Now
-## 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td>
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=yanevannn&show_icons=true&theme=graywhite" alt="Evan's GitHub stats" />
+    </td>
+    <td>
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanevannn&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=devanify&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devanify&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devanify&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=devanify&icon=6&color=0)](https://visitcount.itsvg.in) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### `$ highlightedProjects`
+
+<table border="0" align="center">
+  <thead>
+    <tr>
+      <th width="50%" align="center">Repo</th>
+      <th align="center" >Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yanevannn/Password-Wifi-Check">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=Password-Wifi-Check&theme=swift" alt="Password-Wifi-Check" />
+        </a>
+      </td>
+      <td align="left" style="text-align: justify;">
+        This repository helps in checking the WiFi password information. It is designed for use on Windows operating systems, where the program retrieves data about WiFi networks that have previously connected to the device. 🔐💻
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+       <a href="https://github.com/yanevannn/Submission-Bookshelf-API">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=Submission-Bookshelf-API&theme=swift" alt="Submission-Bookshelf-API" />
+        </a>
+      </td>
+      <td align="left" style="text-align: justify;">
+        This repository contains a RESTful API for managing a bookshelf. It allows users to add, update, delete, and view books stored in a collection. It is built with Node.js and Express, providing functionality for managing book data efficiently. 📚💡
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2" align="center">
+        <strong>Soon ⏳</strong>
+        <br>
+        More repositories will be added soon. Stay tuned for upcoming projects! 🚀🔜
+      </td>
+    </tr>
+  </tfoot>
+</table>
