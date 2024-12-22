@@ -70,7 +70,7 @@ const AboutMe = {
     <tr>
       <td align="center">
         <a href="https://github.com/yanevannn/Password-Wifi-Check">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=Password-Wifi-Check&theme=swift" alt="Password-Wifi-Check" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=password-wifi-checktools&theme=swift" alt="password-wifi-checktools" />
         </a>
       </td>
       <td align="left" style="text-align: justify;">
@@ -80,7 +80,7 @@ const AboutMe = {
     <tr>
       <td align="center">
        <a href="https://github.com/yanevannn/Submission-Bookshelf-API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=Submission-Bookshelf-API&theme=swift" alt="Submission-Bookshelf-API" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yanevannn&repo=project-SubmissionBookshelf-API&theme=swift" alt="project-SubmissionBookshelf-API" />
         </a>
       </td>
       <td align="left" style="text-align: justify;">
